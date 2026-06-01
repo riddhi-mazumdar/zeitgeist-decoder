@@ -1,0 +1,6 @@
+keyword,intent,audience_segment,geography,estimated_monthly_volume,buzz_match,priority,content_angle,notes
+[example: soft life meaning],informational,millennial-urban-female-sec-ab,delhi-ncr,1746,high-buzz-high-search,P1,definitional explainer with cultural context,early funnel
+[example: soft life vs hustle culture],commercial,millennial-urban-female-sec-ab,delhi-ncr,698,high-buzz-medium-search,P2,comparison piece with brand POV,considered intent
+[example: best slow fashion brands india],commercial,millennial-urban-female-sec-ab,delhi-ncr,4760,medium-buzz-high-search,P1,listicle with brand inclusion,latent demand opportunity
+[example: buy linen kurta online],transactional,millennial-urban-female-sec-ab,delhi-ncr,262,low-buzz-medium-search,P3,product page SEO,bottom funnel
+,,,,,,,,
